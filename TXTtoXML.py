@@ -1,4 +1,6 @@
-#Step 4
+# created by  @akash desai
+# Fixed the use of .jpeg & png
+#after running this script please remove the .dot from saved jpeg image
 
 from lxml import etree
 from PIL import Image
